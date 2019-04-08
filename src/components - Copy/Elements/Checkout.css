@@ -1,0 +1,14 @@
+.form-container {
+  width: 50%;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.form-container h2 {
+  text-transform: uppercase;
+}
+
+a {
+  color: #000000;
+  font-style: italic;
+}
